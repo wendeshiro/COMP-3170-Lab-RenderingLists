@@ -1,0 +1,35 @@
+.bookContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    box-sizing: border-box;
+    border: #d2c6bf 1px solid;
+    border-radius: 8px;
+}
+
+.bookTitle {
+    color: #53433a;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bookAuthor {
+    margin: 15px 0px 0px 0px;
+}
+
+.bookPrice {
+    color: #68564b;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
