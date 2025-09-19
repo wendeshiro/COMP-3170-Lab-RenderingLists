@@ -3,8 +3,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 300px;
-    height: 500px;
+    width: 200px;
+    height: 360px;
     box-sizing: border-box;
     border: #94bdd6 2px solid;
     border-radius: 8px;
@@ -13,7 +13,7 @@
 }
 
 .pulsBtn {
-    font-size: 30px;
+    font-size: 22px;
     text-align: center;
     color: #466a83;
     transition: color 0.5s;
